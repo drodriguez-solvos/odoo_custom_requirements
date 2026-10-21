@@ -1,0 +1,45 @@
+# generated from manifests external_dependencies
+PyYAML
+beautifulsoup4
+bokeh==3.4.1
+chardet
+cryptography
+cssselect
+dataclasses
+deepdiff<8
+endesive ; python_version >= '3.12'
+endesive<=2.18.5 ; python_version < '3.12'
+factur-x
+lxml
+mako
+mpld3==0.5.10
+numpy-financial<=1.0.0
+numpy>=1.15
+odoo_test_helper
+odoorpc
+ofxparse
+openpyxl
+openupgradelib
+pandas
+paramiko<4.0.0
+pdf2image
+plaid-python
+plotly==5.22.0
+py3o.formats
+py3o.template
+pycountry
+pycryptodome
+pygount
+pypdf
+pysftp
+python-dateutil
+pyzbar
+requests
+schwifty==2024.4.0
+sentry_sdk<=1.9.0
+suds-py3
+unidecode
+xlrd
+xlsxwriter
+xmlsig
+zeep
